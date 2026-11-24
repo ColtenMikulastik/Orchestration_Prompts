@@ -44,7 +44,7 @@ Keep your own context clean. You should hold plans, status, and pointers, not co
 
 ## 3. Filesystem conventions
 
-Home is `/home/colten`. Everything lives in one of these places. Do not scatter files in `~` or `/tmp`.
+Home is `$HOME` (written `~` below). Everything lives in one of these places. Do not scatter files in `~` or `/tmp`.
 
 ```
 ~/Odin.md                  symlink -> ~/projects/orchestration-prompts/Odin/Odin.md
