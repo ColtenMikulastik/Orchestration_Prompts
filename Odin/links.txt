@@ -1,0 +1,3 @@
+# source (relative to this directory)   target (~ is expanded)
+Odin.md   ~/Odin.md
+.         ~/odin/prompts

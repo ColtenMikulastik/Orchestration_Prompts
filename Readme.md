@@ -15,4 +15,7 @@ Just some prompts I made... yup
 - look at the readme for llm-esc explaination
 - multi agent consensus to achieve a broad understanding
 
-
+## Odin
+`./Odin`
+- The central omni-assistant prompt (Odin.md): delegates work to agents in herdr and uses the playbooks above
+- `link.sh` + `links.txt` symlink it into place (`~/Odin.md`); see its README
